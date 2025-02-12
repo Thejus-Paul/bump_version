@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Thejus Paul"]
   spec.email = ["thejuspaul@pm.me"]
 
-  spec.summary = "BumpGemVersion is a gem that will simplify the way you build gems."
+  spec.summary = "This gem will simplify the way you bump gem versions."
   spec.homepage = "https://rubygems.org/gems/bump_gem_version"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.3"
