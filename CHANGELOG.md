@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [2.0.0] - 2025-02-12
+
+- Changed: Bumped the dependency gems to their latest version.
+- BREAKING CHANGE: Removed support for Ruby versions `3.2.x`.
+
 ## [1.0.1] - 2024-09-09
 
 - Changed: Bumped the dependency gems to their latest version.
